@@ -1,2 +1,2 @@
-# TDXAI
-TDXAI (yolo-Inception)
+TDXAI: A Target Detection and Explainability Framework Based on YOLOv5s-InceptionConv
+TDXAI (Target Detection with eXplainable Artificial Intelligence) is a novel framework designed to enhance interaction responsiveness and interpretability in Mixed Reality (MR) environments. It integrates a lightweight target detection backbone (YOLOv5s) with a multi-scale feature enhancement module (InceptionConv) and incorporates Grad-CAM for explainable visual feedback. The method supports real-time automotive parts assembly tasks by detecting key components (e.g., engine, wheel, door), visualizing model attention, and generating spatially-aware interaction feedback. The name "TDXAI" reflects its dual focus on target detection (TD) and explainable AI (XAI).
